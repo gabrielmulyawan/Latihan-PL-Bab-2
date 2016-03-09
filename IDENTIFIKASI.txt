@@ -1,0 +1,8 @@
+Nama  : Gabriel Mulyawan
+Nim   : 155150201111135	
+Kelas : Informatika H
+
+*Class 	  : Mahasiswa dan Lapangan.
+*Object   : data dan ukuran.
+*Method   : Mahasiswa(constructor), Lapangan(constructor), getNama, getJumlahWaktu, getJarak, getNilai, dan getKeliling.
+*Attribut : panjang, lebar, keliling, nim, nama, jumlahPutaran, jumlah_waktu, jarak, dan nilai.
